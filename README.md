@@ -1,2 +1,3 @@
-# mysamplerep
+# mySampleRep
  [ ] box
+ [ ] box2
