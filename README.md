@@ -1,4 +1,4 @@
 # mySampleRep
  [] box
- [] bo
+ [] box2
 
