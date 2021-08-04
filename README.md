@@ -1,5 +1,5 @@
 # mySampleRep
- [ ] box
+ [ ] box1
  
  [ ] box2
 
